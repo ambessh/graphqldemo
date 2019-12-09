@@ -1,0 +1,22 @@
+.detailsli{
+   
+margin:10px;
+padding:10px;
+
+}
+
+
+.bd{
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin:20px;
+    padding:10px;
+    width:30%;
+    background: pink;
+    height: 90%;
+    display: inline-flexbox;
+    overflow: auto;
+
+    box-sizing: border-box;
+}
